@@ -64,8 +64,9 @@ Future Improvements
 
 ## Architecture Diagram
 
-![DevSecOps Local AI Lab Architecture](./docs/Architecture.png)
-- Local AI Model: CodeLlama served via Ollama (currently integrated)
+![DevSecOps Local AI Lab Architecture](./docs/diagram.png)
+
+> *Note: CodeLlama (Local AI Model) is already integrated inside the DevContainer for real-time AI-assisted development.*
 
 Acknowledgements
 
