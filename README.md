@@ -64,7 +64,7 @@ Future Improvements
 
 ## Architecture Diagram
 
-![DevSecOps Local AI Lab Architecture](https://raw.githubusercontent.com/stoic-dad/devsecops-local-ai-lab/main/docs/diagram.png)
+![DevSecOps Local AI Lab](diagram.png)
 
 > *Note: CodeLlama (Local AI Model) is already integrated inside the DevContainer for real-time AI-assisted development.*
 
