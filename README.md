@@ -62,6 +62,11 @@ Future Improvements
 	•	Integrate local AI assistant inside the container for secure code generation.
 	•	Enrich SBOMs with metadata (licenses, vulnerabilities) for deeper analysis.
 
+## Architecture Diagram
+
+![DevSecOps Local AI Lab Architecture](./docs/Architecture.png)
+- Local AI Model: CodeLlama served via Ollama (currently integrated)
+
 Acknowledgements
 
 Thanks to the open-source communities behind Trivy, CycloneDX, DevContainers, and Ollama for making security innovation accessible to builders like me.
