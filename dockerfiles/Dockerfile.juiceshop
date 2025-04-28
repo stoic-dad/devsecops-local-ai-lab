@@ -1,0 +1,4 @@
+FROM vulnerables/web-dvwa
+
+# Just running the base vulnerable app for scanning
+CMD ["apache2-foreground"]

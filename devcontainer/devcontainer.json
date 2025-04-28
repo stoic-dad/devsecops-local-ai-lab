@@ -1,0 +1,14 @@
+{
+    "name": "DevSecOps Local AI Lab",
+    "build": {
+      "dockerfile": "Dockerfile",
+      "context": ".."
+    },
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extensions": [
+      "ms-azuretools.vscode-docker",
+      "ms-vscode.cpptools"
+    ]
+  }
