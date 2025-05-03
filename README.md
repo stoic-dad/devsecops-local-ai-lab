@@ -1,5 +1,31 @@
 # DevSecOps Local AI Lab
 
+_A beginner-friendly DevSecOps experiment designed to simulate secure development environments enhanced with local AI assistance._
+
+---
+
+## 🚀 Quick Start
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/stoic-dad/devsecops-local-ai-lab.git
+   cd devsecops-local-ai-lab
+2. Open in VS Code:
+    
+    - Install Remote - Containers extension
+    - Select "Reopen in Container"
+
+3.	Build the DevContainer:
+
+	- docker compose build
+
+4.	Start the DevContainer:
+
+	- docker compose up
+
+Once running, open the DevContainer terminal and run provided scripts inside /bash-scripts.	
+
 ## Overview
 This project is a personal DevSecOps experiment designed to simulate secure development environments enhanced with local AI assistance.  
 I built this lab to deepen my hands-on technical skills by integrating security scanning, SBOM generation, and AI-assisted coding inside a reproducible development container.
